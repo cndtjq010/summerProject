@@ -1,0 +1,9 @@
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\bin\Debug\FastChess.exe.config
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\bin\Debug\FastChess.exe
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\bin\Debug\FastChess.pdb
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\obj\Debug\FastChess.csprojResolveAssemblyReference.cache
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\obj\Debug\FastChess.Properties.Resources.resources
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\obj\Debug\FastChess.csproj.GenerateResource.Cache
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\obj\Debug\FastChess.exe
+c:\users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\obj\Debug\FastChess.pdb
+C:\Users\이충섭\documents\visual studio 2013\Projects\FastChess\FastChess\obj\Debug\FastChess.Form1.resources
